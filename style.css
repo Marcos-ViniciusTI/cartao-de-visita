@@ -1,0 +1,31 @@
+
+body {
+    background-color: #202020;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url(./assets/background.png) no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.content {
+    margin-top: 20%;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
